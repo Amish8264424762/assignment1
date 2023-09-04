@@ -49,6 +49,8 @@ Changes to be committed:
 - `git merge`:this lets the user take independent lines of developmnet created by git branch and integrate them into a single branch.
 - `git checkout`:the git checkout command lets the usr navigate between the branches created by git branch. checking out a branch updates the files in the working directory to match the version stored in that branch, and it tells git to record all new commits in that branch. 
 
+# merging of branches
+- merge main branch with new branch 
 
 
 

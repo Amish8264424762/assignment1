@@ -29,4 +29,43 @@ Changes to be committed:
 - `cd`: for creating a directory
 - `ls`: to list the contents of current working directory
 
+# why version control is important
+## with version control, it is possible to:
+
+- version control helps in keeping the code base up to date 
+- getting the current version of creative file 
+- helps to manage various version of brand assets
+- it could benefit from just an update or its time to retire it and start fresh 
+- a user can also go back from current version to previous version
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
